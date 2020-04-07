@@ -1,0 +1,35 @@
+<div class="row">
+        <div class="col-6">
+          <input [(ngModel)]="searchText" type="text" class="form-control" placeholder="Type to filter">
+        </div>
+</div>
+      <hr>
+      
+      <table class="table table-bordered table-hover" *ngIf='pacientes && pacientes.length'>
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">identificación</th>
+            <th scope="col">Nombre </th>
+            <th scope="col">Valor de hospitalizacion</th>
+            <th scope="col">Salario</th>
+            <th scope="col">Valor del copago</th>
+            <th scope="col">Acciones</th>
+          </tr>
+        </thead>
+        <tbody contenteditable="true">
+          <tr *ngFor="let paciente of pacientes; index as i ">
+            <th scope="row">{{ i + 1 }}</th>
+            <td>{{ paciente.identificacion }} </td>
+            <td>{{ paciente.nombre }}</td>
+            <td>{{ paciente.valorHospitalizacion  }}</td>
+            <td>{{ paciente.salario  }}</td>
+            <td>{{ paciente.valorCopago }}</td>
+            <td> 
+                <button class="delete" title="Eliminar paciente"
+                (click)="delete(paciente.identificacion)">Eliminar</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    

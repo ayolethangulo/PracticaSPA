@@ -1,0 +1,13 @@
+C:\programacion-web\Practica-Spa\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\programacion-web\Practica-Spa\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\programacion-web\Practica-Spa\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\programacion-web\Practica-Spa\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\programacion-web\Practica-Spa\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\programacion-web\Practica-Spa\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\programacion-web\Practica-Spa\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\programacion-web\Practica-Spa\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\programacion-web\Practica-Spa\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\programacion-web\Practica-Spa\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\programacion-web\Practica-Spa\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\programacion-web\Practica-Spa\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\programacion-web\Practica-Spa\Logica\obj\Debug\netstandard2.0\Logica.pdb

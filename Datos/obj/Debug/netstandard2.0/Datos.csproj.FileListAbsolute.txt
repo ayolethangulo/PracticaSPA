@@ -1,0 +1,11 @@
+C:\programacion-web\Practica-Spa\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\programacion-web\Practica-Spa\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\programacion-web\Practica-Spa\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\programacion-web\Practica-Spa\Datos\bin\Debug\netstandard2.0\Entity.dll
+C:\programacion-web\Practica-Spa\Datos\bin\Debug\netstandard2.0\Entity.pdb
+C:\programacion-web\Practica-Spa\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+C:\programacion-web\Practica-Spa\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\programacion-web\Practica-Spa\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\programacion-web\Practica-Spa\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+C:\programacion-web\Practica-Spa\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\programacion-web\Practica-Spa\Datos\obj\Debug\netstandard2.0\Datos.pdb
